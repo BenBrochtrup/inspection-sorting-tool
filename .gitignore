@@ -1,6 +1,5 @@
 pycache/
 data/
-dist/
 output/
 gui.spec
 __pycache__/
